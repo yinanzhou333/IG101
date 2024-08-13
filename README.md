@@ -41,6 +41,12 @@ Here’s how data protection fits into Information Governance:
 
 In summary, data protection is integral to Information Governance, as it ensures that an organization's data is managed securely, ethically, and in compliance with applicable laws. It helps to build trust with customers and stakeholders by demonstrating a commitment to safeguarding personal and sensitive information.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/624399a2-af2b-4189-a3d4-67663f4ae1fb">
+</div>
+
+(The image is from https://info.aiim.org/aiim-blog/how-to-get-executive-support-for-your-next-information-governance-initiative)
+
 ## IG Practice
 
 ### The first thing to know: what do we have now (what is the state-of-the-art)?
@@ -100,3 +106,5 @@ Here are some of the common categories of tools used for data protection in IG:
 > Function: Audit and monitoring tools track and log user activities related to data access and usage. They provide audit trails that are essential for compliance reporting and for detecting any unauthorized or suspicious activity.
 
 These tools, when integrated into an Information Governance framework, help ensure that data is managed, protected, and used in compliance with both legal regulations and organizational policies.
+
+
