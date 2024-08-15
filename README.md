@@ -28,6 +28,7 @@ Data protection plays a critical role in Information Governance (IG) by ensuring
 Here’s how data protection fits into Information Governance:
 
 * **Compliance with Legal and Regulatory Requirements**: Data protection laws, such as the [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/) in Europe or the [Health Insurance Portability and Accountability Act (HIPAA)](https://www.hhs.gov/hipaa/for-professionals/index.html) in the U.S., require organizations to protect personal data. Information Governance frameworks incorporate these legal requirements, ensuring that the organization’s data handling practices meet the necessary standards.
+> My notes: I am aware of a nice article "10 Data Protection Questions to Ask Before Starting a New Project" at https://rebelsguidetopm.com/gdpr-project-management/#what-is-gdpr
 
 * **Data Privacy**: Protecting the privacy of individuals is a key aspect of data protection. Information Governance ensures that personal data is collected, processed, and stored in a manner that respects privacy rights, limiting access to only those who need it for legitimate purposes.
 
@@ -46,6 +47,8 @@ In summary, data protection is integral to Information Governance, as it ensures
 </div>
 
 (The image is from https://info.aiim.org/aiim-blog/how-to-get-executive-support-for-your-next-information-governance-initiative)
+
+
 
 ## IG Practice
 
